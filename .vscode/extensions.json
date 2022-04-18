@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "matklad.rust-analyzer",
+        "serayuzgur.crates",
+        "jedeop.crates-completer",
+        "tamasfe.even-better-toml",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}
